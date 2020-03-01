@@ -110,13 +110,13 @@ export default {
     .btns {
       text-align: right;
       .cancel {
-        color: #555;
+        color: #000000a6;
         cursor: pointer;
         display: inline-block;
         height: 32px;
         line-height: 30px;
         border-radius: 2px;
-        border: 1px solid #555;
+        border: 1px solid #d9d9d9;
       }
       .btn {
         height: 32px;
